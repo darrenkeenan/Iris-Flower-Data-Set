@@ -16,8 +16,8 @@ The data set consists of 50 samples from each of three species/classes of Iris:
 3.	Iris-virginica
 
 The four features of the Iris dataset:
-4.	Sepal Length in cm
-5.	Sepal Width in cm
-6.	Petal Length in cm
-7.	Petal Width in cm
+1.	Sepal Length in cm
+2.	Sepal Width in cm
+3.	Petal Length in cm
+4.	Petal Width in cm
 
