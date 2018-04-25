@@ -1,7 +1,7 @@
 # Iris-Flower-Data-Set
 Background research into Fisher's Iris Flower Data Set - A brief summary including python code, tables and graphics supporting my findings. 
 
-Sir Ronald Aylmer Fisher (17 February 1890 – 29 July 1962), described as, "a genius who almost single-handedly created the foundations for modern statistical science" Hald, Anders (1998); (A History of Mathematical Statistics. New York: Wiley) and "the single most important figure in 20th century statistics" (E. Bradley, 1998). "R. A. Fisher in the 21st century", Statistical Science. 
+Sir Ronald Aylmer Fisher (17 February 1890 – 29 July 1962), described as, "a genius who almost single-handedly created the foundations for modern statistical science" (H. Anders, 1998); (A History of Mathematical Statistics. New York: Wiley) and "the single most important figure in 20th century statistics" (E. Bradley, 1998). "R. A. Fisher in the 21st century", Statistical Science. 
 	
 A "British statistician and geneticist who pioneered the application of statistical procedures to the design of scientific experiments..." (Sir Ronald Aylmer Fisher | British geneticist and statistician) https://www.britannica.com/biography/Ronald-Aylmer-Fisher
 
