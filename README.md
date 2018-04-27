@@ -33,6 +33,7 @@ with open("data/iris.csv") as iris:
         print(i[0],i[1],i[2],i[3],i[4])
         
 #Results:
+
 5.1 3.5 1.4 0.2 Iris-setosa
 
 4.9 3.0 1.4 0.2 Iris-setosa
