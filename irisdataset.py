@@ -1,13 +1,14 @@
-Reviewing the data set:
+Reviewing data set:
 
-columnname = "petal length", "petal width", "sepal length", "sepal width", "name" 
+columnname = "petal length", "petal width", "sepal length", "sepal width", "name"       #labeling columns
 print(columnname)
 
-with open("data/iris.csv") as iris:
+with open("data/iris.csv") as iris:     #opening file saved on computer
     for cmandname in iris:
-        i = cmandname.split(",")
+        i = cmandname.split(",")        #organising data, separating data & data alignment
         print(i[0],i[1],i[2],i[3],i[4])
         
+#Data set has 5 Columns - first four are features (cm) and the fifth is the species/class of the Iris        
 #Results:
 
 5.1 3.5 1.4 0.2 Iris-setosa
