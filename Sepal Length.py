@@ -1,7 +1,7 @@
 # Calculating min & max sepal length per species of iris data set
 # Darren Keenan - finalized 2018-04-29
 
-columnname = "Sepal Length", "name"                             # naming two columns
+columnname = "Sepal Length", "Species/Class"                             # naming two columns
 print(columnname)                                               # printing named columns
 
 with open("data/iris.csv") as iris:                             # opening file iris.csv saved on computer
