@@ -1,4 +1,4 @@
-# Calculating min & max petal length per species of iris data set
+# Calculating min & max sepal length per species of iris data set
 # Darren Keenan - finalized 2018-04-29
 
 columnname = "Sepal Length", "name"                             # naming two columns
