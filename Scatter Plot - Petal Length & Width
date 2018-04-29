@@ -1,0 +1,15 @@
+# Darren Keenan - finalized 2018-04-29
+# Scatter plot using minimum & maximum values for petal length & width for three Iris species/classes
+
+import matplotlib.pyplot as plt                         # matplotlib
+
+x = [1,3,4.5,1.9,5.1,6.9]                               # reults of min & max petal length
+y = [0.1,1,1.4,0.6,1.8,2.5]                             # reults of min & max petal width
+
+plt.scatter(x, y, label='Petal', color='r')             
+
+plt.xlabel('Petal Length')                              # label x axis
+plt.ylabel('Petal Width')                               # label y axis
+plt.title('Petal Length & Width')                       # scatter plot title
+plt.legend
+plt.show()                                              # reult
