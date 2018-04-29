@@ -2,7 +2,7 @@
 # Darren Keenan - finalized 2018-04-29
 
 columnname = "Petal Length", "Species/Class"                    # naming two columns
-print(columnname)                                               # printing name columns
+print(columnname)                                               # printing named columns
 
 with open("data/iris.csv") as iris:                             # opening file iris.csv saved on computer
     for cmandname in iris:
